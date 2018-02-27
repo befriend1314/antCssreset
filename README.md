@@ -1,4 +1,6 @@
-## AntUI Reset  [原文] (https://antui.alipay.com/10.1.10/index.html#Reset%20or%20Normalize)
+## AntUI Reset
+
+[原文链接](https://antui.alipay.com/10.1.10/index.html#Reset%20or%20Normalize)
 
 虽然文件名为reset，其实只是精简版的reset。
 
